@@ -65,7 +65,7 @@ document.body.appendChild(document.createElement("br"));
 document.body.appendChild(resetSpeed);
 document.body.appendChild(newGame)
 newGame.style.color="black";
-document.body.style.backgroundColor = "Green";
+document.body.style.backgroundColor = "grey";
 
 
 
