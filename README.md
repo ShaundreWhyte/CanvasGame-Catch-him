@@ -1,5 +1,5 @@
 # CanvasGame-Catch-him
 # Screenshot
 
+![canvas game pic 2](https://user-images.githubusercontent.com/46546858/155824664-248fa133-595f-4be8-824a-0580c3bda562.PNG)
 
-![canvas game](https://user-images.githubusercontent.com/46546858/155824608-231b686a-e2d4-4555-ae48-5f14d38cdeef.jpg)
